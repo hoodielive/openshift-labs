@@ -1,2 +1,0 @@
-# openshift-labs
-OpenShift Labs
